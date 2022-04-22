@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @BenAltshuler
+👋 Hi, I’m @BenAltshuler
 
 
--- I’m a data and stats enthusiast who loves executing exploratory data analysis and gleaning actionable insights using tools like Pandas, Spark, SQL, R, and PyTorch.
+I’m a data and stats enthusiast who loves executing exploratory data analysis and gleaning actionable insights using tools like Pandas, Spark, SQL, R, and PyTorch.
 I enjoy wrangling the complexity out of overwhelming sets of info, and presenting my findings in a way anyone can understand. 
 
--- I also collect vintage guitars, pedals, amplifiers, and hifi speakers, so don't ask me about any of those things: I will talk too much about them. 
+I also collect vintage guitars, pedals, amplifiers, and hifi speakers, so don't ask me about any of those things: I will talk too much about them. 
 
 <!---
 BenAltshuler/BenAltshuler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
